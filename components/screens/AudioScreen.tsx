@@ -39,6 +39,7 @@ export default function AudioScreen() {
 const styles = StyleSheet.create({
   safeAreaContainer: {
     flex: 1,
+    backgroundColor: 'black',
   },
   scrollView: {
     alignItems: 'center',
